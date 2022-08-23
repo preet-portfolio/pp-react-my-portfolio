@@ -13,9 +13,7 @@ const Home = () => {
                     I'm a Web Developer
                 </h2>
                 <p className='text-gray-500 py-4 max-w-md'>
-                I have 3 years of Hands on experience on severel programming languages,
-                I started my journey by Coding HTML and CSS and later on familiar with PHP, React, Vue.js.
-                I am also working with XR technologies.
+                Extremely motivated and focused software developer obsessed with learning new abilities I've worked with Javascript, CSS, React, Redux, SQL, Node.js to create complicated online apps.
                 </p>
                 <div>
                     <Link to="portfolio" smooth duration={500} className='group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer'>

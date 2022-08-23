@@ -1,6 +1,6 @@
 import React from 'react'
 import emoji from '../assets/portfolio/emoji.png'
-import installNode from '../assets/portfolio/installNode.jpg'
+import huluclone from '../assets/portfolio/huluclone.png'
 import navbar from '../assets/portfolio/navbar.jpg'
 import reactParallax from '../assets/portfolio/reactParallax.jpg'
 import reactWeather from "../assets/portfolio/reactWeather.jpg"
@@ -11,14 +11,17 @@ const Portfolio = () => {
     const portfolio = [
         {
            id:1,
-           src: emoji,
-           replit: 'https://replit.com/@preet-portfolio/Emojies',
-           github: 'https://github.com/preet-portfolio/emoji'
+           src: huluclone,
+        //    deployed
+           replit: 'https://hulu-pp-clone.vercel.app',
+           github: 'https://github.com/preet-portfolio/hulu-pp-clone'
 
         },
         {
-            id:2,
-            src: reactParallax
+            id:1,
+           src: emoji,
+           replit: 'https://replit.com/@preet-portfolio/Emojies',
+           github: 'https://github.com/preet-portfolio/emoji'
         },
         {
             id:3,
@@ -30,7 +33,7 @@ const Portfolio = () => {
         },
         {
             id:5,
-            src: installNode
+            // src: installNode
         },
         {
             id:6,
