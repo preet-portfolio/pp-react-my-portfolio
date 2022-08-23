@@ -2,7 +2,7 @@ import React from 'react'
 import emoji from '../assets/portfolio/emoji.png'
 import huluclone from '../assets/portfolio/huluclone.png'
 import navbar from '../assets/portfolio/navbar.jpg'
-import reactParallax from '../assets/portfolio/reactParallax.jpg'
+// import reactParallax from '../assets/portfolio/reactParallax.jpg'
 import reactWeather from "../assets/portfolio/reactWeather.jpg"
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg"
 
