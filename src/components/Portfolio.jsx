@@ -1,8 +1,7 @@
 import React from 'react'
 import emoji from '../assets/portfolio/emoji.png'
 import huluclone from '../assets/portfolio/huluclone.png'
-import navbar from '../assets/portfolio/navbar.jpg'
-// import reactParallax from '../assets/portfolio/reactParallax.jpg'
+import airbnb from "../assets/portfolio/airbnbclone.png"
 import reactWeather from "../assets/portfolio/reactWeather.jpg"
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg"
 
@@ -11,21 +10,24 @@ const Portfolio = () => {
     const portfolio = [
         {
            id:1,
-           src: huluclone,
+           src: airbnb,
         //    deployed
-           replit: 'https://hulu-pp-clone.vercel.app',
-           github: 'https://github.com/preet-portfolio/hulu-pp-clone'
+           replit: 'https://airbnb-clone-l96zigkz8-preet-portfolio.vercel.app',
+           github: 'https://github.com/preet-portfolio/airbnb-clone-pp'
 
         },
         {
             id:1,
-           src: emoji,
-           replit: 'https://replit.com/@preet-portfolio/Emojies',
-           github: 'https://github.com/preet-portfolio/emoji'
+           src: huluclone,
+        //    deployed
+           replit: 'https://hulu-pp-clone.vercel.app',
+           github: 'https://github.com/preet-portfolio/hulu-pp-clone'
         },
         {
             id:3,
-            src: navbar
+           src: emoji,
+           replit: 'https://replit.com/@preet-portfolio/Emojies',
+           github: 'https://github.com/preet-portfolio/emoji'
         },
         {
             id:4,
