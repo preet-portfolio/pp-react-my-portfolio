@@ -3,7 +3,7 @@ import emoji from '../assets/portfolio/emoji.png'
 import huluclone from '../assets/portfolio/huluclone.png'
 import airbnb from "../assets/portfolio/airbnbclone.png"
 import reactWeather from "../assets/portfolio/reactWeather.jpg"
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg"
+import fashionEcommerce from "../assets/portfolio/fashionEcommerce.png"
 
 const Portfolio = () => {
 
@@ -31,7 +31,9 @@ const Portfolio = () => {
         },
         {
             id:4,
-            src: reactSmooth
+            src: fashionEcommerce,
+            replit: 'https://replit.com/@preet-portfolio/urban-garbanzo#',
+           github: 'https://github.com/preet-portfolio/urban-garbanzo'
         },
         {
             id:5,
