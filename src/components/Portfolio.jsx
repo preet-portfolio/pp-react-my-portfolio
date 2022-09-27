@@ -4,6 +4,7 @@ import huluclone from '../assets/portfolio/huluclone.png'
 import airbnb from "../assets/portfolio/airbnbclone.png"
 import reactWeather from "../assets/portfolio/reactWeather.jpg"
 import fashionEcommerce from "../assets/portfolio/fashionEcommerce.png"
+import threed from "../assets/portfolio/3d.png"
 
 const Portfolio = () => {
 
@@ -37,7 +38,9 @@ const Portfolio = () => {
         },
         {
             id:5,
-            // src: installNode
+            src:threed,
+            replit: 'https://my-first-360-image-three-js-wvby.vercel.app',
+           github: 'https://github.com/preet-portfolio/my_first_360_image_ThreeJS'
         },
         {
             id:6,
