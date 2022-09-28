@@ -2,8 +2,8 @@ import React from 'react'
 import emoji from '../assets/portfolio/emoji.png'
 import huluclone from '../assets/portfolio/huluclone.png'
 import airbnb from "../assets/portfolio/airbnbclone.png"
-import reactWeather from "../assets/portfolio/reactWeather.jpg"
 import fashionEcommerce from "../assets/portfolio/fashionEcommerce.png"
+import fshion from "../assets/portfolio/fshion.png"
 import threed from "../assets/portfolio/3d.png"
 
 const Portfolio = () => {
@@ -44,7 +44,9 @@ const Portfolio = () => {
         },
         {
             id:6,
-            src: reactWeather
+            src: fshion,
+            replit: 'https://minimalist-website-mue8.vercel.app/',
+           github: 'https://github.com/preet-portfolio/Minimalist_Website'
         },
         
     ]
