@@ -1,5 +1,5 @@
 import React from 'react';
-import {FaGithub, FaLinkedin} from 'react-icons/fa'
+import {FaGithub, FaLinkedin, FaCodepen} from 'react-icons/fa'
 import {HiOutlineMail} from 'react-icons/hi'
 import {BsFillPersonLinesFill} from 'react-icons/bs'
 
@@ -22,6 +22,18 @@ const SocialLinks = () => {
             id:2,
             child: (
                 <>
+                    CodePen <FaCodepen size={30} />
+                    </>
+            ),
+            href: 'https://codepen.io/preet2020/pens/public',
+            style:'rounded-tr-md'
+
+
+        },
+        {
+            id:3,
+            child: (
+                <>
                     Github <FaGithub size={30} />
                     </>
             ),
@@ -31,7 +43,7 @@ const SocialLinks = () => {
 
         },
         {
-            id:3,
+            id:4,
             child: (
                 <>
                     Mail <HiOutlineMail size={30} />
@@ -42,7 +54,7 @@ const SocialLinks = () => {
 
         },
         {
-            id:4,
+            id:5,
             child: (
                 <>
                     Resume <BsFillPersonLinesFill size={30} />

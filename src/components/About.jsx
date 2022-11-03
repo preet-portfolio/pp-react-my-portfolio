@@ -22,7 +22,7 @@ const About = () => {
             </p>
             <br />
             <p className='text-xl'>
-            I received my diploma in Interactive Media Design from Algonquin College, 
+            I pursuing my diploma in Interactive Media Design from Algonquin College, 
             and I have also taken a number of courses in web design, programming, coding, 
             and design thinking. My three years of experience made it easier for me to comprehend 
             business tactics. I can now readily adapt to the commercial market and comprehend 
