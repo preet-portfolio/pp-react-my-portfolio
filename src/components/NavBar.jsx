@@ -32,9 +32,11 @@ const NavBar = () => {
     ]
 
     return (
-        <div className="px-4 flex justify-between items-center w-full h-20 text-white bg-black fixed">
+        <div className="px-4 flex justify-between items-center w-full h-20 text-blue-600 bg-white fixed border border-inne">
+
+            {/* BrandName */}
         <div>
-        <h1 className="text-5xl font-signature ml-2">Preet</h1>
+        <h1 className="uppercase tracking-wide text-2xl text-indigo-500 font-semibold">Preet</h1>
         </div>
         
         <ul className="hidden md:flex">
