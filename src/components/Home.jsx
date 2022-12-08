@@ -14,7 +14,7 @@ const Home = () => {
                         </div>
                         <div className="p-8">
                             <div className="uppercase tracking-wide text-sm text-indigo-500 font-semibold">My Name Is Preet Panchal</div>
-                            <a href="#" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Coder || Gamer || Learner</a>
+                            <a href="https://www.linkedin.com/in/preetpanchal22/" className="block mt-1 text-lg leading-tight font-medium text-black hover:underline">Coder || Gamer || Learner</a>
 
                             <p className="mt-2 text-slate-500">
                                 Extremely motivated and focused software developer obsessed with learning new abilities I've worked with Javascript,
